@@ -1,0 +1,15 @@
+# Ignore data
+/data/raw/*
+/data/processed/*
+
+# Ignore models
+/models/*
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore OS and VS Code files
+__pycache__/
+*.pyc
+.vscode/
